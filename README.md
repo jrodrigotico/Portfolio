@@ -1,6 +1,6 @@
 # Quem sou eu?
 Meu nome é João Rodrigo, sou graduado em Contabilidade pela Universidade de São Paulo (USP). Atualmente trabalho com consultoria financeira e possuo grande interesse por ciência de dados, programação e Machine Learning!
-No decorrer do 'README' mostro alguns projetos!
+No decorrer desse 'README' mostro alguns projetos!
 
 # Teoria Moderna de Portfolio - Harry Markowitz
 Aplicação web desenvolvida em Python utilizando o framework Streamlit. A proposta é de ser uma demonstração tanto matemática quanto prática de como a diversificação de ativos dentro de uma carteira é importante para a criação de estratégias de investimento.
@@ -17,12 +17,19 @@ Aplicação web desenvolvida em Python utilizando o framework Streamlit. A propo
 
 
 
+
+# Comparação entre 'for', 'apply', 'vetorização pandas', 'vetorização numpy', 'np.select' e 'np.numpy'
+
+
+
+
 # Análise da função 'dtypes_diet'
 
 
 
 
-# Comparação entre 'apply' e 'if'
+
+
 
 
 
