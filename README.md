@@ -12,7 +12,7 @@ Aplicação web desenvolvida em Python utilizando o framework Streamlit. A propo
 [**Aplicativo Streamlit**] (https://portfolio-markowitz.streamlit.app)
 
 
-# Regressão Logística - POF (IBGE)
+# MQO - POF (IBGE)
 
 
 
