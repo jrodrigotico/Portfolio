@@ -13,7 +13,9 @@ Aplicação web desenvolvida em Python utilizando o framework Streamlit. A propo
 
 
 # [*MQO - POF (IBGE)*](https://github.com/jrodrigotico/MQO-IBGE)
-Aplicação do 'Método dos Mínimos Quadrados (MQO)' ou 'Ordinary Least Squares (OLS) em um conjunto de dados do IBGE formado a partir de alguns cadernos da 'Pesquisa de Orçamentos Familiares (POF 2017-2018)' (https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?=&t=downloads). 
+Aplicação do 'Método dos Mínimos Quadrados (MQO)' ou 'Ordinary Least Squares (OLS) em um conjunto de dados do IBGE formado a partir de alguns cadernos da 'Pesquisa de Orçamentos Familiares (POF 2017-2018)'.
+
+Fonte dos dados: (https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?=&t=downloads). 
 
 No projeto há verificação de observações 'NAs', estatísticas descritivas, construção de variáveis utilizando o método 'apply', plotagem de gráficos, criação de dummies, estudo sobre V de Cramer e Correlação de Pearson, e o modelo OLS utilizando a biblioteca 'statsmodels'.
 
