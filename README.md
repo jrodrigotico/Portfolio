@@ -35,6 +35,14 @@ Este projeto visa analisar e comparar o tempo de execução da criação de uma 
 
 
 
+# Aplicação de Random Forest no conjunto de dados 'Titanic'
+
+
+
+
+
+
+
 
 
 
