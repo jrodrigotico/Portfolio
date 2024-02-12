@@ -18,7 +18,7 @@ Aplicação do 'Método dos Mínimos Quadrados (MQO)' ou 'Ordinary Least Squares
 No projeto há verificação de observações 'NAs', estatísticas descritivas, construção de variáveis utilizando o método 'apply', plotagem de gráficos, criação de dummies, estudo sobre V de Cramer e Correlação de Pearson, e o modelo OLS utilizando a biblioteca 'statsmodels'.
 
 <p align="center">
-  <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/benchamark_imagem.png" width=60%>
+  <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/ols_imagem.png" width=60%>
 </p> 
 
 
