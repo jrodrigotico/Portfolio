@@ -29,16 +29,17 @@ Este projeto visa analisar e comparar o tempo de execução da criação de uma 
   <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/benchmark_imagem.png" width=60%>
 </p> 
 
-# Análise de vendas de base fictícia utilizando SQL e Python
+
+# Análise de vendas de base fictícia utilizando SQL e Python (Em construção)
 
 
 
 
-# Análise da função 'dtypes_diet'
+# Análise da função 'dtypes_diet' (Em construção)
 
 
 
-# Aplicação de Random Forest no conjunto de dados 'Titanic'
+# Aplicação de Random Forest no conjunto de dados 'Titanic' (Em construção)
 
 
 
