@@ -18,7 +18,7 @@ Aplicação do 'Método dos Mínimos Quadrados (MQO)' ou 'Ordinary Least Squares
 No projeto há verificação de observações 'NAs', estatísticas descritivas, construção de variáveis utilizando o método 'apply', plotagem de gráficos, criação de dummies, estudo sobre V de Cramer e Correlação de Pearson, e o modelo OLS utilizando a biblioteca 'statsmodels'.
 
 <p align="center">
-  <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/ols_imagem.png" width=60%>
+  <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/benchamark_imagem.png" width=60%>
 </p> 
 
 
@@ -26,9 +26,8 @@ No projeto há verificação de observações 'NAs', estatísticas descritivas, 
 Este projeto visa analisar e comparar o tempo de execução da criação de uma variável em uma base de dados utilizando algumas abordagens. A escolha entre utilizar estruturas condicionais como 'if' e estruturas de repetição como 'for' ou a função 'apply' para aplicar uma função a cada elemento do DataFrame pode ter um impacto significativo no desempenho do código, especialmente em grandes conjuntos de dados. Além dessas estruturas, nesse projeto há a comparação utilizando métodos de vetorização!
 
 <p align="center">
-  <https://github.com/jrodrigotico/Portfolio/blob/imagens/benchamark_imagem.png" width=60%>
+  <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/benchmark_imagem.png" width=60%>
 </p> 
-
 
 # Análise de vendas de base fictícia utilizando SQL e Python
 
