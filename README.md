@@ -5,9 +5,9 @@ No decorrer desse 'README' mostro alguns projetos finalizados e outros em constr
 # [*Teoria Moderna de Portfolio - Harry Markowitz*](https://portfolio-markowitz.streamlit.app)
 Aplicação web desenvolvida em Python utilizando o framework Streamlit. A proposta é de ser uma demonstração tanto matemática quanto prática de como a diversificação de ativos dentro de uma carteira é importante para a criação de estratégias de investimento.
 
-<!-- <p align="center">
-  <img src="https://github.com/Eduardoppereira/PBI_ORCAMENTO/blob/main/Captura%20de%20tela%202023-12-18%20160756.png" width=60%>
-</p> -->
+<p align="center">
+  <img src="https://github.com/jrodrigotico/Portfolio/blob/main/Imagens/benchamark_imagem.png" width=60%>
+</p>
 
 [Aplicativo Streamlit - Teoria Moderna de Portfolio](https://portfolio-markowitz.streamlit.app/)
 
