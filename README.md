@@ -9,7 +9,7 @@ Aplicação web desenvolvida em Python utilizando o framework Streamlit. A propo
   <img src="https://github.com/Eduardoppereira/PBI_ORCAMENTO/blob/main/Captura%20de%20tela%202023-12-18%20160756.png" width=60%>
 </p> -->
 
-[**Aplicativo Streamlit**] (https://portfolio-markowitz.streamlit.app)
+[*Aplicativo Streamlit*] (https://portfolio-markowitz.streamlit.app)
 
 
 # MQO - POF (IBGE)
@@ -18,7 +18,8 @@ Aplicação web desenvolvida em Python utilizando o framework Streamlit. A propo
 
 
 
-# Comparação entre 'for', 'apply', 'vetorização pandas', 'vetorização numpy', 'np.select' e 'np.numpy'
+# Benchmark de performance com Python
+
 
 
 
