@@ -19,7 +19,7 @@ O 'Term Frequency — Inverse Document Frequency' tem o objetivo de calcular, es
 Este projeto visa o estudo sobre o método TF-IDF e suas aplicações, utilizando uma base de dados contendo avaliações de jogos na Steam. O objetivo é explorar como os resultados do TF-IDF podem ser interpretados e utilizados para análises mais detalhadas (Frequência, K-means e Naive-Bayes - Bernooulli) e insights significativos sobre as percepções e opiniões dos jogadores em relação a recomendação ou não do jogo.
 
 <p align="center">
-  <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/marko_imagem.png" width=60%>
+  <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/marko_imagem.png](https://github.com/jrodrigotico/Portfolio/blob/imagens/naive_bayes_bernoulli_imagem.png" width=60%>
 </p>
 
 
