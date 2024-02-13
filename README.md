@@ -13,7 +13,7 @@ Aplicação web desenvolvida em Python utilizando o framework Streamlit. A propo
 [Aplicativo Streamlit - Teoria Moderna de Portfolio](https://portfolio-markowitz.streamlit.app/)
 
 
-# [*TF-IDF - Reviews*](https://github.com/jrodrigotico/TF-IDF-Reviews) 	📖:
+# [*TF-IDF - Reviews*](https://github.com/jrodrigotico/TF-IDF-Reviews) 	📖:![Em desenvolvimento](https://img.shields.io/badge/status%20:%20em%20desenvolvimento%20-8A2BE2)
 O 'Term Frequency — Inverse Document Frequency' tem o objetivo de calcular, estatisticamente, o peso de cada palavra em um texto, atribuindo assim, uma importância para cada uma das palavras envolvidas.
 
 Este projeto visa o estudo sobre o método TF-IDF e suas aplicações, utilizando uma base de dados contendo avaliações do jogo "Call of Duty". O objetivo é explorar como os resultados do TF-IDF podem ser interpretados e utilizados para análises mais detalhadas (K-means e Naive-Bayes) e insights significativos sobre as percepções e opiniões dos jogadores em relação ao jogo.
@@ -42,9 +42,6 @@ A escolha entre utilizar estruturas condicionais como 'if' e estruturas de repet
 <p align="center">
   <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/benchmark_imagem.png" width=60%>
 </p> 
-
-
-# Estudo sobre TF-IDF (Em construção)
 
 
 
