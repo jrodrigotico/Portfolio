@@ -18,8 +18,6 @@ Aplicação do 'Método dos Mínimos Quadrados (MQO)' ou 'Ordinary Least Squares
 
 No projeto há verificação de observações 'NAs', estatísticas descritivas, construção de variáveis utilizando o método 'apply', plotagem de gráficos, criação de dummies, estudo sobre V de Cramer e Correlação de Pearson, e o modelo OLS utilizando a biblioteca 'statsmodels'.
 
-Fonte dos dados: https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?=&t=downloads. 
-
 <p align="center">
   <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/ols_imagem.png" width=60%>
 </p> 
