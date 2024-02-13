@@ -3,7 +3,7 @@ Meu nome é João Rodrigo, sou graduado em Contabilidade pela Universidade de S�
 
 No decorrer desse 'README' mostro alguns projetos finalizados e outros em construção!
 
-# [*Teoria Moderna de Portfolio - Harry Markowitz*](https://portfolio-markowitz.streamlit.app) 	:dollar:
+# [*Teoria Moderna de Portfolio - Harry Markowitz*](https://github.com/jrodrigotico/Portfolio-Markowitz) 	:dollar:
 Aplicação web desenvolvida em Python utilizando o framework Streamlit. A proposta é de ser uma demonstração tanto matemática quanto prática de como a diversificação de ativos dentro de uma carteira é importante para a criação de estratégias de investimento.
 
 <p align="center">
@@ -13,9 +13,14 @@ Aplicação web desenvolvida em Python utilizando o framework Streamlit. A propo
 [Aplicativo Streamlit - Teoria Moderna de Portfolio](https://portfolio-markowitz.streamlit.app/)
 
 
-# [*TF-IDF - Reviews*]() 	📖:
+# [*TF-IDF - Reviews*](https://github.com/jrodrigotico/TF-IDF-Reviews) 	📖:
+O 'Term Frequency — Inverse Document Frequency' tem o objetivo de calcular, estatisticamente, o peso de cada palavra em um texto, atribuindo assim, uma importância para cada uma das palavras envolvidas.
 
+Este projeto visa o estudo sobre o método TF-IDF e suas aplicações, utilizando uma base de dados contendo avaliações do jogo "Call of Duty". O objetivo é explorar como os resultados do TF-IDF podem ser interpretados e utilizados para análises mais detalhadas (K-means e Naive-Bayes) e insights significativos sobre as percepções e opiniões dos jogadores em relação ao jogo.
 
+<!-- <p align="center">
+  <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/marko_imagem.png" width=60%>
+</p> -->
 
 
 
