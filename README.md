@@ -33,6 +33,10 @@ A escolha entre utilizar estruturas condicionais como 'if' e estruturas de repet
 </p> 
 
 
+# Estudo sobre TF-IDF (Em construção)
+
+
+
 # Análise de vendas de base fictícia utilizando SQL e Python (Em construção)
 
 
