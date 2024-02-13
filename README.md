@@ -13,6 +13,12 @@ Aplicação web desenvolvida em Python utilizando o framework Streamlit. A propo
 [Aplicativo Streamlit - Teoria Moderna de Portfolio](https://portfolio-markowitz.streamlit.app/)
 
 
+# [*TF-IDF - Reviews*]() 	📖:
+
+
+
+
+
 # [*MQO - POF (IBGE)*](https://github.com/jrodrigotico/MQO-IBGE) :open_book:
 Aplicação do 'Método dos Mínimos Quadrados (MQO)' ou 'Ordinary Least Squares (OLS) em um conjunto de dados do IBGE formado a partir de alguns cadernos da 'Pesquisa de Orçamentos Familiares (POF 2017-2018)'.
 
