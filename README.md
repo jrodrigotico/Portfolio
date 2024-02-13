@@ -1,5 +1,6 @@
 # Quem sou eu?
 Meu nome é João Rodrigo, sou graduado em Contabilidade pela Universidade de São Paulo (USP). Atualmente trabalho com consultoria financeira e possuo grande interesse por ciência de dados, programação e Machine Learning!
+
 No decorrer desse 'README' mostro alguns projetos finalizados e outros em construção!
 
 # [*Teoria Moderna de Portfolio - Harry Markowitz*](https://portfolio-markowitz.streamlit.app)
