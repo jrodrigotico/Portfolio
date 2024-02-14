@@ -11,6 +11,7 @@ Aplicação web desenvolvida em Python utilizando o framework Streamlit. A propo
 </p>
 
 [Aplicativo Streamlit - Teoria Moderna de Portfolio](https://portfolio-markowitz.streamlit.app/)
+Vídeo de demonstração: https://www.youtube.com/watch?v=xDNOIRyIDgw
 
 
 # [*TF-IDF - Reviews*](https://github.com/jrodrigotico/TF-IDF-Reviews) 	📖![Em desenvolvimento](https://img.shields.io/badge/status%20:%20em%20desenvolvimento%20-8A2BE2)
