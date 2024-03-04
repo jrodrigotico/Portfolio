@@ -39,7 +39,7 @@ No projeto há verificação de observações 'NAs', estatísticas descritivas, 
 # [*Benchmark de performance com Python*](https://github.com/jrodrigotico/apply-for) 	:wrench:
 Este projeto visa analisar e comparar o tempo de execução da criação de uma variável em uma base de dados utilizando algumas abordagens. 
 
-A escolha entre utilizar estruturas condicionais como 'if' e estruturas de repetição como 'for' ou a função 'apply' para aplicar uma função a cada elemento do DataFrame pode ter um impacto significativo no desempenho do código, especialmente em grandes conjuntos de dados. Além dessas estruturas, nesse projeto há a comparação utilizando métodos de vetorização (pandas e numpy) e métodos como np.where e np.select!
+A escolha entre utilizar estruturas condicionais como 'if' e estruturas de repetição como 'for' ou a função 'apply' para aplicar uma função a cada elemento do DataFrame pode ter um impacto significativo no desempenho do código, especialmente em grandes conjuntos de dados. Além dessas estruturas, nesse projeto há a comparação utilizando métodos de vetorização (pandas e numpy) e métodos como 'np.where' e 'np.select'!
 
 <p align="center">
   <img src="https://github.com/jrodrigotico/Portfolio/blob/imagens/benchmark_imagem.png" width=60%>
