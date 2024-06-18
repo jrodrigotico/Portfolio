@@ -1,5 +1,5 @@
 # Quem sou eu? :pushpin:
-Meu nome é João Rodrigo, sou graduado em Contabilidade pela Universidade de São Paulo (USP). Tenho experiência trabalhando na área de Modelagem de Risco, porém atualmente trabalho com consultoria financeira e possuo grande interesse por ciência de dados, programação e Machine Learning!
+Meu nome é João Rodrigo, sou graduado em Contabilidade pela Universidade de São Paulo (USP). Tenho experiência trabalhando na área de Modelagem de Risco e consultoria financeira. Possuo grande interesse por ciência de dados, programação e Machine Learning!
 
 No decorrer desse 'README' mostro alguns projetos finalizados e outros em construção!
 
